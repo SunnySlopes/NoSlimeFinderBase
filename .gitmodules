@@ -1,0 +1,6 @@
+[submodule "cubiomes"]
+	path = cubiomes
+	url = https://github.com/xpple/cubiomes.git
+[submodule "slimeoptimizer"]
+	path = slimeoptimizer
+	url = https://github.com/CITYWIDESIGN/SlimeOptimizer.git
